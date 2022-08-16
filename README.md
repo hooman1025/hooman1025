@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-
+Programming Language
 <br>
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
@@ -76,3 +76,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </dv>
 <br>
+<br>
+
+  <div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangsO&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  </div>
